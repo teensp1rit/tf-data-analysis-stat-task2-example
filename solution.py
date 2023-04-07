@@ -18,4 +18,4 @@ def solution(p: float, x: np.array) -> tuple:
     
     
     
-    return f(alpha / 2), f(1 - alpha / 2)
+    return f(0), f(p)
