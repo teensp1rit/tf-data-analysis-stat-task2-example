@@ -14,7 +14,7 @@ def solution(p: float, x: np.array) -> tuple:
     n = len(x)
     
     def f(q):
-        return (2 * n * m - 2 * np.log(1 - q) - n) / (2 * 72 * n)
+        return (2 * n * m - 2 * np.log(1 - q) - n) / (2 * 71 * n)
     
     
     
